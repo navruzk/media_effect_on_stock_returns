@@ -6,6 +6,8 @@ This tutorial is about the exploration of the imminent effect of news on stock p
 
 Following the scraping process, text is cleaned thoroughly and analyzed through sentiment analysis (VADER) to investigate if the text contains negative or positive sentiment about the stock. Lastly, I used newly constructed variable to explain stock returns together with market return (empirical CAPM).
 
+Notebook is given [here](https://navruzbek1992.github.io/data_science_challenges/projects/news_and_boeing_stocks.html)
+
 ### Prerequisites
 
 Python is required.
@@ -17,7 +19,3 @@ Install required libraries.
 ```bash
 pip -r install requirements.txt
 ```
-
-## Deployment
-
-Detailed explanation is give [here](https://navruzbek1992.github.io/data_science_challenges/projects/news_and_boeing_stocks.html)
